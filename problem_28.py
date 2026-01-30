@@ -5,5 +5,5 @@ a = 10
 b = 20
 temp = a
 a = b
-b = a
+b = TEMP
 print(f"a = {a}, b = {b}")
